@@ -1,1 +1,1 @@
-# pi-camera-facial-recognition
+#PiCamera Facial Recognition
